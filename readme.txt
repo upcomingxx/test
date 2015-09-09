@@ -1,4 +1,4 @@
 git is a version control
 create a new branch i quick
-ccccccccccccccccccccccccc
+ooooooooooooooooooooooooo
 create a new branch dev
